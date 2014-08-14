@@ -1,0 +1,24 @@
+{
+  "name": "search-rank",
+  "version": "0.0.0",
+  "description": "A simple tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuezk/search-rank.git"
+  },
+  "author": "yuezk001@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuezk/search-rank/issues"
+  },
+  "homepage": "https://github.com/yuezk/tb-search-rank",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "colors": "^0.6.2",
+    "iconv-lite": "^0.4.4"
+  }
+}
