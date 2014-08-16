@@ -19,6 +19,7 @@
   "dependencies": {
     "cheerio": "^0.17.0",
     "colors": "^0.6.2",
+    "commander": "^2.3.0",
     "iconv-lite": "^0.4.4"
   }
 }
